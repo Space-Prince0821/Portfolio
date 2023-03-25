@@ -15,13 +15,13 @@ const Experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon"/>
               <div>
-                <h4>HTML</h4>
+                <h4>HTML & CSS</h4>
               </div>
             </article>
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon"/>
               <div>
-                <h4>CSS</h4>
+                <h4>Ruby on Rails</h4>
               </div>
             </article>
             <article className="experience__details">
@@ -42,12 +42,6 @@ const Experience = () => {
                 <h4>React</h4>
               </div>
             </article>
-            <article className="experience__details">
-              <BsPatchCheckFill className="experience__details-icon"/>
-              <div>
-                <h4>React Native</h4>
-              </div>
-            </article>
           </div>
         </div>
         {/* END OF FRONTEND */}
@@ -64,13 +58,13 @@ const Experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon"/>
               <div>
-                <h4>PHP</h4>
+                <h4>PostgreSQL</h4>
               </div>
             </article>
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon"/>
               <div>
-                <h4>NodeJS</h4>
+                <h4>Firebase</h4>
               </div>
             </article>
           </div>

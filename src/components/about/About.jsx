@@ -29,7 +29,7 @@ const About = () => {
                         <article className='about__card'>
                             <FiUsers className='about__icon'/>
                             <h5>Clients</h5>
-                            <small>In progress</small>
+                            <small>Multiple</small>
                         </article>
 
                         <article className='about__card'>
@@ -40,7 +40,7 @@ const About = () => {
                     </div>
 
                     <p>
-                        Recently graduated with a bachelor's degree in Computer Science. Looking for frontend development job positions, as it is my passion and goal. I enjoy creating different types of webpages, especially using JavaScript libraries like reactJS. I plan to eventually become a full stack developer, once I gain more experience in the backend field.
+                        Graduated with a bachelor's degree in Computer Science from California State University Northridge. Over 3 years of industry experience using ReactJS and Ruby on Rails. I enjoy creating different types of webpages, using frameworks such as reactJS.
                     </p>
 
                     <a href="#contact" className='btn btn-primary'>Let's talk</a>
