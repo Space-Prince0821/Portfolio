@@ -40,7 +40,7 @@ const About = () => {
                     </div>
 
                     <p>
-                        Graduated with a bachelor's degree in Computer Science from California State University Northridge. Over 3 years of industry experience using ReactJS and Ruby on Rails. I enjoy creating different types of webpages, using frameworks such as reactJS.
+                        Graduated with a bachelor's degree in Computer Science from California State University Northridge. Over 3 years of industry experience using ReactJS and Ruby on Rails. I enjoy creating different types of responsive webpages, using modern and up to date frameworks such as reactJS.
                     </p>
 
                     <a href="#contact" className='btn btn-primary'>Let's talk</a>
