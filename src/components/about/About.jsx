@@ -40,7 +40,7 @@ const About = () => {
                     </div>
 
                     <p>
-                        Graduated with a bachelor's degree in Computer Science from California State University Northridge. Over 3 years of industry experience using ReactJS and Ruby on Rails. I enjoy creating different types of responsive webpages, using modern and up to date frameworks such as reactJS.
+                        Graduated with a bachelor's degree in Computer Science from California State University Northridge. Results-driven software engineer with expertise in full-stack web development. Skilled in HTML5, CSS, JavaScript, MongoDB, ExpressJS, ReactJS, NodeJS, Ruby on Rails and Python. Proficient in Git, PostgreSQL, jQuery, and MySQL. Strong problem-solving and communication skills with a passion for delivering high quality software solutions.
                     </p>
 
                     <a href="#contact" className='btn btn-primary'>Let's talk</a>

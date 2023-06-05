@@ -58,6 +58,24 @@ const Skills = () => {
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon"/>
               <div>
+                <h4>MongoDB</h4>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon"/>
+              <div>
+                <h4>ExpressJS</h4>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon"/>
+              <div>
+                <h4>NodeJS</h4>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon"/>
+              <div>
                 <h4>MySQL</h4>
               </div>
             </article>
@@ -65,12 +83,6 @@ const Skills = () => {
               <BsPatchCheckFill className="experience__details-icon"/>
               <div>
                 <h4>PostgreSQL</h4>
-              </div>
-            </article>
-            <article className="experience__details">
-              <BsPatchCheckFill className="experience__details-icon"/>
-              <div>
-                <h4>Firebase</h4>
               </div>
             </article>
             <article className="experience__details">
