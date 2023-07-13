@@ -27,6 +27,18 @@ const Skills = () => {
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon"/>
               <div>
+                <h4>TypeScript</h4>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon"/>
+              <div>
+                <h4>jQuery</h4>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon"/>
+              <div>
                 <h4>JavaScript</h4>
               </div>
             </article>
@@ -71,6 +83,18 @@ const Skills = () => {
               <BsPatchCheckFill className="experience__details-icon"/>
               <div>
                 <h4>NodeJS</h4>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon"/>
+              <div>
+                <h4>NextJS</h4>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon"/>
+              <div>
+                <h4>tRPC</h4>
               </div>
             </article>
             <article className="experience__details">

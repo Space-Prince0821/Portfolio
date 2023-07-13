@@ -13,6 +13,7 @@
 
 .portfolio__item:hover {
     background: var(--color-white);
+    color: var(--color-bg);
 }
 
 .btn-secondary {
@@ -27,7 +28,7 @@
 }
 
 .portfolio__item-image {
-    border-radius: 1.5rem;
+    border-radius: 1.7rem;
     width: 100%;
     overflow: hidden;
 }

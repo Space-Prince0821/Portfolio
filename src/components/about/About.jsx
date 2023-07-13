@@ -40,7 +40,7 @@ const About = () => {
                     </div>
 
                     <p>
-                        Graduated with a bachelor's degree in Computer Science from California State University Northridge. Results-driven software engineer with expertise in full-stack web development. Skilled in HTML5, CSS, JavaScript, MongoDB, ExpressJS, ReactJS, NodeJS, Ruby on Rails and Python. Proficient in Git, PostgreSQL, jQuery, and MySQL. Strong problem-solving and communication skills with a passion for delivering high quality software solutions.
+                        Graduated with a bachelor's degree in Computer Science from California State University Northridge. Results-driven software engineer with expertise in full-stack web development. Skilled in HTML5, CSS, JavaScript, MongoDB, ExpressJS, ReactJS, NodeJS, NextJS, TypeScript, Ruby on Rails and Python. Proficient in Git, PostgreSQL, jQuery, Prisma, tRPC, and MySQL. Strong problem-solving and communication skills with a passion for delivering high quality software solutions.
                     </p>
 
                     <a href="#contact" className='btn btn-primary'>Let's talk</a>
