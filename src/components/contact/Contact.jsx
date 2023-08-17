@@ -11,7 +11,7 @@ const Contact = () => {
     const sendEmail = (e) => {
         e.preventDefault();
     
-        emailjs.sendForm('service_wm2huoc', 'template_vguhkzl', data_form.current, 'DuhaZgDPc5Djuhspo')
+        emailjs.sendForm('service_7x1cvsb', 'template_vguhkzl', data_form.current, 'DuhaZgDPc5Djuhspo')
           .then((result) => {
               console.log(result.text);
           }, (error) => {
@@ -31,8 +31,8 @@ const Contact = () => {
                     <article className="contact__option">
                         <MdOutlineEmail className='contact__option-icon'/>
                         <h4>Email</h4>
-                        <h5>prince.chowdury 2018@gmail.com</h5>
-                        <a href='mailto:prince.chowdury2018@gmail.com' target="_blank" rel="noreferrer">Send a message</a>
+                        <h5>Princechowdury 32@gmail.com</h5>
+                        <a href='mailto:princechowdury32@gmail.com' target="_blank" rel="noreferrer">Send a message</a>
                     </article>
 
                     <article className="contact__option">
@@ -45,8 +45,8 @@ const Contact = () => {
                     <article className="contact__option">
                         <AiOutlinePhone className='contact__option-icon'/>
                         <h4>Mobile</h4>
-                        <h5>747-312-4616</h5>
-                        <a href='mailto:prince.chowdhury0821@yahoo.com' target="_blank" rel="noreferrer">Send a message</a>
+                        <h5>321-257-2841</h5>
+                        <a href='mailto:princechowdury32@gmail.com' target="_blank" rel="noreferrer">Send a message</a>
                     </article>
                 </div>
                 {/* END OF CONTACT OPTIONS */}
