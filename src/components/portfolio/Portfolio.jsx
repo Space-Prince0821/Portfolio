@@ -6,6 +6,7 @@ import IMG2 from "../../assets/Hoobank.png";
 import IMG3 from "../../assets/linkedin.png";
 import IMG4 from "../../assets/todo.png";
 import IMG5 from "../../assets/chirp.png";
+import IMG6 from "../../assets/quizify.png"
 
 const data = [
   {
@@ -37,6 +38,12 @@ const data = [
     image: IMG5,
     title: "EmojiM",
     github: "https://chirp-nz149m3tu-space-prince0821.vercel.app/"
+  },
+  {
+    id: 6,
+    image: IMG6,
+    title: "Quizify",
+    github: "https://loopify-six.vercel.app/quiz"
   },
 ];
 
