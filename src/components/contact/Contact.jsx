@@ -45,7 +45,7 @@ const Contact = () => {
                     <article className="contact__option">
                         <AiOutlinePhone className='contact__option-icon'/>
                         <h4>Mobile</h4>
-                        <h5>321-257-2841</h5>
+                        <h5>689-272-8368</h5>
                         <a href='mailto:princechowdury32@gmail.com' target="_blank" rel="noreferrer">Send a message</a>
                     </article>
                 </div>
