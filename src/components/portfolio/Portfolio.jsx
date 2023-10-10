@@ -4,7 +4,7 @@ import "./portfolio.css";
 import IMG1 from "../../assets/Slack.png";
 import IMG2 from "../../assets/Hoobank.png";
 import IMG3 from "../../assets/linkedin.png";
-import IMG4 from "../../assets/todo.png";
+import IMG4 from "../../assets/job-flow.png";
 import IMG5 from "../../assets/chirp.png";
 import IMG6 from "../../assets/quizify.png"
 
@@ -30,8 +30,8 @@ const data = [
   {
     id: 4,
     image: IMG4,
-    title: "To Do Tracker",
-    github: "https://todo-iirx8jfpf-space-prince0821.vercel.app/"
+    title: "Job application tracker",
+    github: "https://job-flow-chi.vercel.app/"
   },
   {
     id: 5,
