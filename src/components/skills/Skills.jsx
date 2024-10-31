@@ -12,16 +12,22 @@ const Skills = () => {
         <div className="experience__frontend">
           <h3>Frontend Development</h3>
           <div className="experience__content">
-            <article className="experience__details">
+          <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon"/>
               <div>
-                <h4>HTML & CSS</h4>
+                <h4>.NET</h4>
               </div>
             </article>
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon"/>
               <div>
                 <h4>Ruby on Rails</h4>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon"/>
+              <div>
+                <h4>HTML & CSS</h4>
               </div>
             </article>
             <article className="experience__details">
@@ -57,7 +63,13 @@ const Skills = () => {
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon"/>
               <div>
-                <h4>Python</h4>
+                <h4>Bootstrap</h4>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon"/>
+              <div>
+                <h4>VueJS</h4>
               </div>
             </article>
           </div>
@@ -70,19 +82,25 @@ const Skills = () => {
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon"/>
               <div>
-                <h4>MongoDB</h4>
+                <h4>C#</h4>
               </div>
             </article>
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon"/>
               <div>
-                <h4>ExpressJS</h4>
+                <h4>Python</h4>
               </div>
             </article>
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon"/>
               <div>
-                <h4>NodeJS</h4>
+                <h4>Ruby</h4>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon"/>
+              <div>
+                <h4>Java</h4>
               </div>
             </article>
             <article className="experience__details">
@@ -113,6 +131,12 @@ const Skills = () => {
               <BsPatchCheckFill className="experience__details-icon"/>
               <div>
                 <h4>Git & GitHub</h4>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon"/>
+              <div>
+                <h4>Entity Framework</h4>
               </div>
             </article>
           </div>
